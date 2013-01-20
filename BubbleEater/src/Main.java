@@ -18,7 +18,7 @@ public class Main {
 			}
 		MainPanel playArea = frame.getPlayArea();
 		game = new Game(playArea);
-		System.out.println("Reaches here");
+		System.out.println("Jules testard has hacked your game :p.[Reaches here]");
 		game.playGame();
 	}
 	
