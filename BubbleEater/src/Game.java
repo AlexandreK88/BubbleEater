@@ -92,6 +92,7 @@ public class Game {
 				System.out.println("Player is attempting to move");
 				synchronized(playerShape) {
 					int[] playerMove = playerMoves.pop();
+					//Jules is spamming some more comments
 					if (Math.abs(playerShape.getXPos() - playerMove[0]) < 10 && Math.abs(playerShape.getYPos() - playerMove[1]) < 10) {
 						playerShape.setXPos(playerMove[0]);
 						playerShape.setYPos(playerMove[1]);
