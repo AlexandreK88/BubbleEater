@@ -1,0 +1,10 @@
+// Will replace and manage ingameshapes everywhere.
+public class InGameShapeManager {
+
+private LinkedList<InGameShape> shapes;
+private LinkedList<InGameShape> playerShape;
+
+public InGameShapeManager() {
+
+}
+}
