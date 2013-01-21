@@ -10,5 +10,7 @@ private LinkedList<InGameShape> AIShapes;
 	public InGameShapeManager() {
 		shapes = new LinkedList<InGameShape>();
 		
+	public String michaeljackson() {
+		return "Billie Jean's, got my luv";
 	}
 }
