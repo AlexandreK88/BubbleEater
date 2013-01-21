@@ -2,8 +2,7 @@
 public class InGameShapeManager {
 
 private LinkedList<InGameShape> shapes;
-private InGameShape playerShape;
-private LinkedList<InGameShape> AIShapes;
+private LinkedList<InGameShape> playerShape;
 
 public InGameShapeManager() {
 
