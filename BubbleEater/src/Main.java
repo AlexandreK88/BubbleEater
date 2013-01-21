@@ -3,6 +3,7 @@ import java.util.Random;
 
 public class Main {
 	
+	//I am spamming comments [jules testard]
 	public static Random r;
 	public static boolean goodToGo = false;
 	public static Game game;
